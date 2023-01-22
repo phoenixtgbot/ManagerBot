@@ -8,11 +8,11 @@ SUDO_USERS_ID = [
     1115053159,
     543214651351,
 ]  # Sudo users have full access to everything, don't trust anyone
-LOG_GROUP_ID = -1001315413953
+LOG_GROUP_ID = -1001831847722
 GBAN_LOG_GROUP_ID = -100125431255
-MESSAGE_DUMP_CHAT = -1001315413953
+MESSAGE_DUMP_CHAT = -1001831847722
 WELCOME_DELAY_KICK_SEC = 300
-MONGO_URL = "mongodb+srv://PhoenixKing:PhoenixKing@cluster0.ajwkdee.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URL = "mongodb+srv://phoenix:phoenix061@cluster0.y46vf.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 ARQ_API_KEY = "SFGBXP-DFHLZR-BCMCHX-ISCKZJ-ARQ"
 ARQ_API_URL = ""
 LOG_MENTIONS = True
